@@ -1,4 +1,4 @@
-This is pTeX, Version 3.141592-p3.1.10 (utf8.euc) (Web2C 7.5.4) (format=platex 2013.8.17)  8 SEP 2013 17:20
+This is pTeX, Version 3.141592-p3.1.10 (utf8.euc) (Web2C 7.5.4) (format=platex 2013.8.17)  8 SEP 2013 18:29
 **text.tex
 (./text.tex
 pLaTeX2e <2006/11/10>+0 (based on LaTeX2e <2003/12/01> patch level 0)
@@ -435,9 +435,9 @@ File: ./picture/Sinti.eps Graphic file (type eps)
 
 ]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 63.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 65.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 63.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 65.
 File: ./picture/Discriminator.eps Graphic file (type eps)
  <./picture/Discriminator.eps>
 File: ./picture/Coincidence.eps Graphic file (type eps)
@@ -456,7 +456,7 @@ File: ./picture/TDC.eps Graphic file (type eps)
  <./picture/TDC.eps>
 [4] (I search kanjifont definition file: . . ) (I search font definition file:
 . . . . . . . )
-LaTeX Font Info:    Try loading font information for OT1+txtt on input line 207
+LaTeX Font Info:    Try loading font information for OT1+txtt on input line 209
 .
  (/opt/local/share/texmf-dist/tex/latex/txfonts/ot1txtt.fd
 File: ot1txtt.fd 2000/12/15 v3.1
@@ -473,4 +473,4 @@ Here is how much of TeX's memory you used:
  566 hyphenation exceptions out of 8191
  27i,9n,43p,220b,566s stack positions out of 5000i,500n,6000p,200000b,5000s
 
-Output written on text.dvi (5 pages, 10184 bytes).
+Output written on text.dvi (5 pages, 10244 bytes).
