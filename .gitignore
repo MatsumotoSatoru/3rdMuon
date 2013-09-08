@@ -1,5 +1,5 @@
-text.dvi
-text.pdf
-text.aux
-text.log
+*.dvi
+*.pdf
+*.aux
+*.log
 
